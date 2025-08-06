@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    color:dark pink(225, 74, 23);
+    font-size: 20px;
+}
+button{
+    background-color: rgb(13, 47, 237);
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
